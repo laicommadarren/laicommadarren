@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darren Lai @laicommadarren
 - 👀 I’m interested in math, logic, food: eating, talking about, developing, and studying it.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
